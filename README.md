@@ -1,2 +1,2 @@
 # lua-100
-Lua in 100 examples
+Lua Programming Language in 100 examples
